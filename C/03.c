@@ -11,7 +11,7 @@ int main(){
 
     sum1=a+b;
     dif1=a-b;
-
+ 
     sum2=x+y;
     dif2=x-y;
    
