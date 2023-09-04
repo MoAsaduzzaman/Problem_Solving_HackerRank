@@ -7,7 +7,7 @@ int main(){
     char a[100];
     scanf("%[^\n]s",&a);
 
-    printf("Hello, World!\n");
+    printf("Hello, World!\n"); 
     printf("%s\n",a);
 
     return 0;
