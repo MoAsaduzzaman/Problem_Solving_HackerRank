@@ -10,7 +10,7 @@ int main(){
     
     scanf("%c\n",&a);
     scanf("%s\n",&string);
-    scanf("%[^\n]s",&sentence);
+    scanf("%[^\n]s",&sentence); 
     
     printf("%c\n%s\n%s\n",a,string,sentence);
 
